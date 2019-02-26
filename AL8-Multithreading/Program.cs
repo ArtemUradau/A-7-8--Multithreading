@@ -29,9 +29,10 @@ namespace Advanced_Lesson_6_Multithreading
 
             //Practice.LA8_P5_5();
             //Lesson.UnsyncPlayersExample();
-            Lesson.AMPPlayerExample();
-
-            Console.WriteLine("Place any key to break...");
+            //Lesson.AMPPlayerExample();
+            //Practice.LA8_P2_5();
+            Practice.LA8_P4_5();
+            Console.ReadKey();
             //Console.ReadLine();
         }
     }
